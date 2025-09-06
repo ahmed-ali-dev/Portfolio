@@ -3,7 +3,7 @@ import ContactForm from "./ContactForm";
 
 function ContactSection() {
   return (
-    <div className="bg-dark text-light py-5" id="contact">
+    <div className="bg-white text-dark py-5" id="contact">
       <div className="container">
         <div className="row">
           <div className="col-md-6 d-flex flex-column justify-content-center">

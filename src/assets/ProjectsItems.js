@@ -7,7 +7,8 @@ const ProjectsItems = [
     projectImg: ToDoList,
     projectTitle: "To Do List",
     projectDescription:
-      "Small to save list of taske that you will do in the future using LocalStorage.",
+      "Small Project to save list of tasks that you will do in the future using LocalStorage.",
+    ProjectLink: "https://ahmed-ali-dev.github.io/To-Do-List/",
   },
   {
     id: 2,
@@ -15,6 +16,7 @@ const ProjectsItems = [
     projectTitle: "leon portofolio",
     projectDescription:
       "Responsive Portfolio Project have many parts (Services , Portfolio , About , contact)",
+    ProjectLink: "https://ahmed-ali-dev.github.io/HTML_AND_CSS_Template_One/",
   },
 ];
 

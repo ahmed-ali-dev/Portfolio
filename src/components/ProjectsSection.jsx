@@ -14,6 +14,7 @@ function ProjectsSection() {
               ProjectImage={Project.projectImg}
               ProjectName={Project.projectTitle}
               ProjectDesc={Project.projectDescription}
+              ProjectLink={Project.ProjectLink}
             />
           ))}
         </div>

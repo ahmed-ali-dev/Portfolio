@@ -12,7 +12,11 @@ function ProjectCard(props) {
             {props.ProjectName}
           </Card.Title>
           <Card.Text>{props.ProjectDesc}</Card.Text>
-          <Button className="shadow text-capitalize" variant="outline-primary">
+          <Button
+            className="shadow text-capitalize"
+            variant="outline-primary"
+            onClick={() => window.open(props.ProjectLink, "_blank")}
+          >
             View Project
           </Button>
         </Card.Body>
