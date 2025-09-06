@@ -20,6 +20,11 @@ function Footer() {
               Projects
             </a>
           </li>
+          <li className="me-0 me-sm-3 mb-2 md-sm-0">
+            <a href="#skills" className="text-light text-decoration-none">
+              Skills
+            </a>
+          </li>
           <li>
             <a href="#contact" className="text-light text-decoration-none">
               Contact
